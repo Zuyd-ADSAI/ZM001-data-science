@@ -1,4 +1,4 @@
-# ZM001-2425-data-science
+# ZM001-data-science
 
 Minor Data Science notebooks and resources in English
 
@@ -6,12 +6,12 @@ Minor Data Science notebooks and resources in English
 
 Open a terminal and clone this repository using [git](https://git-scm.com/)
 ```bash
-git clone git@github.com:Zuyd-ADSAI/ZM001-2425-data-science.git
+git clone git@github.com:Zuyd-ADSAI/ZM001-data-science.git
 ```
 
 Navigate into the cloned folder
 ```bash
-cd ZM001-2425-data-science
+cd ZM001-data-science
 ```
 
 Create a virtual environment where packages will be installed. This can be done via the [Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) package manager or via a Python virtual environment ([venv](https://docs.python.org/3/library/venv.html)).
